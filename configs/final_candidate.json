@@ -1,0 +1,20 @@
+{
+  "rule": "or",
+  "yolo_weights": "weights/yolo26m_epoch77.pt",
+  "yolo_threshold": 0.02,
+  "yolo_imgsz": 960,
+  "dino_model": "hf-hub:timm/vit_base_patch16_dinov3.lvd1689m",
+  "dino_head": "weights/dinov3_head.pt",
+  "dino_threshold": 0.62,
+  "calib": {
+    "images": 137,
+    "precision": 0.9112903225806451,
+    "recall": 1.0,
+    "f1": 0.9535864978902954,
+    "tp": 113,
+    "fp": 11,
+    "fn": 0,
+    "tn": 13
+  },
+  "holdout_used_for_rule_selection": false
+}

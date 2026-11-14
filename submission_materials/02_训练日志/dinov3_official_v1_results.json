@@ -1,0 +1,19 @@
+{
+  "split": "calib",
+  "model": "hf-hub:timm/vit_base_patch16_dinov3.lvd1689m",
+  "train_manifest": "C:\\fire_detection_clean\\data\\image_manifests_official_v1\\train.csv",
+  "val_manifest": "C:\\fire_detection_clean\\data\\image_manifests_official_v1\\calib.csv",
+  "checkpoint": "C:\\fire_detection_clean\\runs\\dinov3_official_v1\\best_head.pt",
+  "calib_scores": "C:\\fire_detection_clean\\runs\\dinov3_official_v1\\calib_scores.csv",
+  "best_calib_metrics": {
+    "threshold": 0.15000000000000002,
+    "precision": 0.88,
+    "recall": 0.9734513274336283,
+    "f1": 0.9243697478991596,
+    "tp": 110,
+    "fp": 15,
+    "fn": 3,
+    "tn": 9
+  },
+  "holdout_used": false
+}

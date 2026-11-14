@@ -1,0 +1,22 @@
+{
+  "rule": "majority2of3",
+  "yolo_weights": "weights/yolo26m_epoch77.pt",
+  "yolo_threshold": 0.02,
+  "siglip2_weights": "weights/siglip2_head.pt",
+  "siglip2_threshold": 0.39,
+  "siglip2_model": "google/siglip2-base-patch16-384",
+  "dinov3_weights": "weights/dinov3_head.pt",
+  "dinov3_threshold": 0.17,
+  "dinov3_model": "hf-hub:timm/vit_base_patch16_dinov3.lvd1689m",
+  "calibration": {
+    "images": 137,
+    "precision": 0.9495798319327731,
+    "recall": 1.0,
+    "f1": 0.9741379310344828,
+    "tp": 113,
+    "fp": 6,
+    "fn": 0,
+    "tn": 18
+  },
+  "holdout_used_for_rule_selection": false
+}

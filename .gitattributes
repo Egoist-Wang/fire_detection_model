@@ -1,0 +1,3 @@
+# Model binaries are not text; the large YOLO checkpoint is stored as a Release asset.
+*.pt -text
+*.safetensors -text
