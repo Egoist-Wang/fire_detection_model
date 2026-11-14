@@ -1,0 +1,68 @@
+[
+  {
+    "Path": "C:\\fire_detection_clean\\models\\Qwen3-VL-4B-Instruct\\model-00001-of-00002.safetensors",
+    "Bytes": 4967229296,
+    "MB": 4737.12,
+    "SHA256": "30A01A0556622645A3CCE87B655BBBBBC1F170C196099F1B666C93202C3339A9"
+  },
+  {
+    "Path": "C:\\fire_detection_clean\\models\\Qwen3-VL-4B-Instruct\\model-00002-of-00002.safetensors",
+    "Bytes": 3908490048,
+    "MB": 3727.43,
+    "SHA256": "046296A2A387EFB43B0C997D5833C789604D168834F6E0D3064BF7BB13D002A6"
+  },
+  {
+    "Path": "C:\\fire_detection_clean\\models\\Qwen3-VL-8B-Instruct\\model-00001-of-00004.safetensors",
+    "Bytes": 4902275944,
+    "MB": 4675.17,
+    "SHA256": "D5D0AEF0EB170FC7453A296C43C0849A56F510555D3588E4FD662BB35490AEFA"
+  },
+  {
+    "Path": "C:\\fire_detection_clean\\models\\Qwen3-VL-8B-Instruct\\model-00002-of-00004.safetensors",
+    "Bytes": 4915962496,
+    "MB": 4688.23,
+    "SHA256": "8BE88FB5501E4D5719A6D4CC212E6A13480330E74F3E8C77DAA1A68F199106B5"
+  },
+  {
+    "Path": "C:\\fire_detection_clean\\models\\Qwen3-VL-8B-Instruct\\model-00003-of-00004.safetensors",
+    "Bytes": 4999831048,
+    "MB": 4768.21,
+    "SHA256": "83DE00EAFE6E0D57CCD009DBCF71C9974D74DF2F016C27AFB7E95AAFD16B2192"
+  },
+  {
+    "Path": "C:\\fire_detection_clean\\models\\Qwen3-VL-8B-Instruct\\model-00004-of-00004.safetensors.part",
+    "Bytes": 2575302656,
+    "MB": 2456.0,
+    "SHA256": "64D474D39EF7216C689DAE48F1D462160359B1F55AA6C09FD0D0FCAFD9B565C8"
+  },
+  {
+    "Path": "C:\\fire_detection_clean\\runs\\pure_yolo\\yolo26m_final_train810_seed4_ckpt-2\\weights\\best.pt",
+    "Bytes": 44044825,
+    "MB": 42.0,
+    "SHA256": "1D88D793B1617967E9DAF8848D31FB46E50284A4F1391A1D88FB6BBA5E1FDF4A"
+  },
+  {
+    "Path": "C:\\fire_detection_clean\\runs\\pure_yolo\\yolo26m_final_train810_seed4_ckpt-2\\weights\\last.pt",
+    "Bytes": 44044825,
+    "MB": 42.0,
+    "SHA256": "7A840C459353258873310B7340E93734415D9F8E3258E185812CC56228C625FA"
+  },
+  {
+    "Path": "C:\\fire_detection_clean\\yolo26m.pt",
+    "Bytes": 44255705,
+    "MB": 42.21,
+    "SHA256": "401CEA9AB23AD19246FF7744859816BC599F350E93C9DD30367B6F0A0745D0B7"
+  },
+  {
+    "Path": "C:\\fire_detection_clean\\yolo26n.pt",
+    "Bytes": 5544453,
+    "MB": 5.29,
+    "SHA256": "9B09CC8BF347F0FC8A5F7657480587F25DB09B34BF33B0652110FB03A8AD4FEF"
+  },
+  {
+    "Path": "C:\\fire_detection_clean\\yolo26s.pt",
+    "Bytes": 20422725,
+    "MB": 19.48,
+    "SHA256": "646F8BC3FE0A656803D95C294F7852321748CB29D13466A1AF8862E2DB384A1B"
+  }
+]
